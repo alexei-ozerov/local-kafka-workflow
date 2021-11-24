@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
